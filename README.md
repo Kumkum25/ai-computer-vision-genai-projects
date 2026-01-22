@@ -40,27 +40,6 @@ Detect and highlight changes between before-and-after images of the same scene.
 
 ---
 
-## Project 3: Automated Document Filling using LLMs
-
-**Objective:**  
-Automate document template filling by extracting structured information
-from reports using Large Language Models.
-
-**What was built:**
-- Streamlit-based interface
-- Upload document templates (.docx)
-- Upload reports (.pdf)
-- Extracted data using NLP + LLMs
-- Generated auto-filled downloadable documents
-
-**Core concepts:**
-- NLP
-- LLM reasoning
-- Streamlit applications
-- End-to-end automation
-
----
-
 ## Tech Stack
 - Python
 - OpenCV
